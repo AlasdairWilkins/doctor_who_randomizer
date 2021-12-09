@@ -1,0 +1,176 @@
+Number,Series,Title,Director,Writer,Doctor,Companions,Villains
+157,1,Rose,Keith Boak,Russell T Davies,9th Doctor,Rose,Autons
+158,1,The End of the World,Euros Lyn,Russell T Davies,9th Doctor,Rose,
+159,1,The Unquiet Dead,Euros Lyn,Mark Gatiss,9th Doctor,Rose,
+160a,1,Aliens of London,Keith Boak,Russell T Davies,9th Doctor,Rose,Slitheen
+160b,1,World War Three,Keith Boak,Russell T Davies,9th Doctor,Rose,Slitheen
+161,1,Dalek,Joe Ahearne,Robert Shearman,9th Doctor,Rose,Daleks
+162,1,The Long Game,Brian Grant,Russell T Davies,9th Doctor,Rose,
+163,1,Father's Day,Joe Ahearne,Paul Cornell,9th Doctor,Rose,
+164a,1,The Empty Child,James Hawes,Steven Moffat,9th Doctor,"Rose, Captain Jack",
+164b,1,The Doctor Dances,James Hawes,Steven Moffat,9th Doctor,"Rose, Captain Jack",
+165,1,Boom Town,Joe Ahearne,Russell T Davies,9th Doctor,"Rose, Captain Jack",Slitheen
+166a,1,Bad Wolf,Joe Ahearne,Russell T Davies,9th Doctor,"Rose, Captain Jack",Daleks
+166b,1,The Parting of the Ways,Joe Ahearne,Russell T Davies,9th Doctor,"Rose, Captain Jack",Daleks
+167,Special,The Christmas Invasion,James Hawes,Russell T Davies,10th Doctor,Rose,
+168,2,New Earth,James Hawes,Russell T Davies,10th Doctor,Rose,
+169,2,Tooth and Claw,Euros Lyn,Russell T Davies,10th Doctor,Rose,
+170,2,School Reunion,James Hawes,Toby Whithouse,10th Doctor,Rose,
+171,2,The Girl in the Fireplace,Euros Lyn,Steven Moffat,10th Doctor,Rose,
+172a,2,Rise of the Cybermen,Graeme Harper,Tom MacRae,10th Doctor,Rose,Cybermen
+172b,2,The Age of Steel,Graeme Harper,Tom MacRae,10th Doctor,Rose,Cybermen
+173,2,The Idiot's Lantern,Euros Lyn,Mark Gatiss,10th Doctor,Rose,
+174a,2,The Impossible Planet,James Strong,Matt Jones,10th Doctor,Rose,Ood
+174b,2,The Satan Pit,James Strong,Matt Jones,10th Doctor,Rose,Ood
+175,2,Love & Monsters,Dan Zeff,Russell T Davies,10th Doctor,Rose,
+176,2,Fear Her,Euros Lyn,Matthew Graham,10th Doctor,Rose,
+177a,2,Army of Ghosts,Graeme Harper,Russell T Davies,10th Doctor,Rose,"Daleks, Cybermen"
+177b,2,Doomsday,Graeme Harper,Russell T Davies,10th Doctor,Rose,"Daleks, Cybermen"
+178,Special,The Runaway Bride,Euros Lyn,Russell T Davies,10th Doctor,Donna,
+179,3,Smith and Jones,Charles Palmer,Russell T Davies,10th Doctor,Martha,Judoon
+180,3,The Shakespeare Code,Charles Palmer,Gareth Roberts,10th Doctor,Martha,
+181,3,Gridlock,Richard Clark,Russell T Davies,10th Doctor,Martha,
+182a,3,Daleks in Manhattan,James Strong,Helen Raynor,10th Doctor,Martha,Daleks
+182b,3,Evolution of the Daleks,James Strong,Helen Raynor,10th Doctor,Martha,Daleks
+183,3,The Lazarus Experiment,Richard Clark,Stephen Greenhorn,10th Doctor,Martha,
+184,3,42,Graeme Harper,Chris Chibnall,10th Doctor,Martha,
+185a,3,Human Nature,Charles Palmer,Paul Cornell,10th Doctor,Martha,
+185b,3,The Family of Blood,Charles Palmer,Paul Cornell,10th Doctor,Martha,
+186,3,Blink,Hettie MacDonald,Steven Moffat,10th Doctor,Martha,Weeping Angels
+187a,3,Utopia,Graeme Harper,Russell T Davies,10th Doctor,"Martha, Captain Jack",Master
+187b,3,The Sound of Drums,Colin Teague,Russell T Davies,10th Doctor,"Martha, Captain Jack",Master
+187c,3,Last of the Time Lords,Colin Teague,Russell T Davies,10th Doctor,"Martha, Captain Jack",Master
+188,Special,Voyage of the Damned,James Strong,Russell T Davies,10th Doctor,Astrid,
+189,4,Partners in Crime,James Strong,Russell T Davies,10th Doctor,Donna,
+190,4,The Fires of Pompeii,Colin Teague,James Moran,10th Doctor,Donna,
+191,4,Planet of the Ood,Graeme Harper,Keith Temple,10th Doctor,Donna,Ood
+192a,4,The Sontaran Stratagem,Douglas Mackinnon,Helen Raynor,10th Doctor,"Donna, Martha",Sontarans
+192b,4,The Poison Sky,Douglas Mackinnon,Helen Raynor,10th Doctor,"Donna, Martha",Sontarans
+193,4,The Doctor's Daughter,Alice Troughton,Stephen Greenhorn,10th Doctor,"Donna, Martha",
+194,4,The Unicorn and the Wasp,Graeme Harper,Gareth Roberts,10th Doctor,Donna,
+195a,4,Silence in the Library,Euros Lyn,Steven Moffat,10th Doctor,"Donna, River Song",
+195b,4,Forest of the Dead,Euros Lyn,Steven Moffat,10th Doctor,"Donna, River Song",
+196,4,Midnight,Alice Troughton,Russell T Davies,10th Doctor,Donna,
+197,4,Turn Left,Graeme Harper,Russell T Davies,10th Doctor,"Donna, Rose",
+198a,4,The Stolen Earth,Graeme Harper,Russell T Davies,10th Doctor,"Donna, Martha, Rose, Captain Jack","Daleks, Davros"
+198b,4,Journey's End,Graeme Harper,Russell T Davies,10th Doctor,"Donna, Martha, Rose, Captain Jack","Daleks, Davros"
+199,Special,The Next Doctor,Andy Goddard,Russell T Davies,10th Doctor,Jackson Lake,
+200,Special,Planet of the Dead,James Strong,"Russell T Davies, Gareth Roberts",10th Doctor,Lady Christina,
+201,Special,The Waters of Mars,Graeme Harper,"Russell T Davies, Phil Ford",10th Doctor,Adelaide Brooke,
+202a,Special,The End of Time – Part One,Euros Lyn,Russell T Davies,10th Doctor,Wilf,Master
+202b,Special,The End of Time – Part Two,Euros Lyn,Russell T Davies,10th Doctor,Wilf,Master
+203,5,The Eleventh Hour,Adam Smith,Steven Moffat,11th Doctor,"Amy, Rory",
+204,5,The Beast Below,Andrew Gunn,Steven Moffat,11th Doctor,Amy,
+205,5,Victory of the Daleks,Andrew Gunn,Mark Gatiss,11th Doctor,Amy,Daleks
+206a,5,The Time of Angels,Adam Smith,Steven Moffat,11th Doctor,"Amy, River Song",Weeping Angels
+206b,5,Flesh and Stone,Adam Smith,Steven Moffat,11th Doctor,"Amy, River Song",Weeping Angels
+207,5,The Vampires of Venice,Jonny Campbell,Toby Whithouse,11th Doctor,"Amy, Rory",
+208,5,Amy's Choice,Catherine Morshead,Simon Nye,11th Doctor,"Amy, Rory",
+209a,5,The Hungry Earth,Ashley Way,Chris Chibnall,11th Doctor,"Amy, Rory",
+209b,5,Cold Blood,Ashley Way,Chris Chibnall,11th Doctor,"Amy, Rory",
+210,5,Vincent and the Doctor,Jonny Campbell,Richard Curtis,11th Doctor,Amy,
+211,5,The Lodger,Catherine Morshead,Gareth Roberts,11th Doctor,Amy,
+212a,5,The Pandorica Opens,Toby Haynes,Steven Moffat,11th Doctor,"Amy, Rory, River Song",
+212b,5,The Big Bang,Toby Haynes,Steven Moffat,11th Doctor,"Amy, Rory, River Song",
+213,Special,A Christmas Carol,Toby Haynes,Steven Moffat,11th Doctor,"Amy, Rory",
+214a,6,The Impossible Astronaut,Toby Haynes,Steven Moffat,11th Doctor,"Amy, Rory, River Song",Silence
+214b,6,Day of the Moon,Toby Haynes,Steven Moffat,11th Doctor,"Amy, Rory, River Song",Silence
+215,6,The Curse of the Black Spot,Jeremy Webb,Stephen Thompson,11th Doctor,"Amy, Rory",
+216,6,The Doctor's Wife,Richard Clark,Neil Gaiman,11th Doctor,"Amy, Rory",
+217a,6,The Rebel Flesh,Julian Simpson,Matthew Graham,11th Doctor,"Amy, Rory",
+217b,6,The Almost People,Julian Simpson,Matthew Graham,11th Doctor,"Amy, Rory",
+218,6,A Good Man Goes to War,Peter Hoar,Steven Moffat,11th Doctor,"Amy, Rory, River Song, Paternoster Gang",
+219,6,Let's Kill Hitler,Richard Senior,Steven Moffat,11th Doctor,"Amy, Rory, River Song",
+220,6,Night Terrors,Richard Clark,Mark Gatiss,11th Doctor,"Amy, Rory",
+221,6,The Girl Who Waited,Nick Hurran,Tom MacRae,11th Doctor,"Amy, Rory",
+222,6,The God Complex,Nick Hurran,Toby Whithouse,11th Doctor,"Amy, Rory",
+223,6,Closing Time,Steve Hughes,Gareth Roberts,11th Doctor,"Amy, Rory",Cybermen
+224,6,The Wedding of River Song,Jeremy Webb,Steven Moffat,11th Doctor,"Amy, Rory, River Song",Silence
+225,Special,"The Doctor, the Widow and the Wardrobe",Farren Blackburn,Steven Moffat,11th Doctor,"Amy, Rory",
+226,7,Asylum of the Daleks,Nick Hurran,Steven Moffat,11th Doctor,"Amy, Rory, Clara",Daleks
+227,7,Dinosaurs on a Spaceship,Saul Metzstein,Chris Chibnall,11th Doctor,"Amy, Rory",
+228,7,A Town Called Mercy,Saul Metzstein,Toby Whithouse,11th Doctor,"Amy, Rory",
+229,7,The Power of Three,Douglas Mackinnon,Chris Chibnall,11th Doctor,"Amy, Rory, Kate",
+230,7,The Angels Take Manhattan,Nick Hurran,Steven Moffat,11th Doctor,"Amy, Rory, River Song",Weeping Angels
+231,Special,The Snowmen,Saul Metzstein,Steven Moffat,11th Doctor,"Clara, Paternoster Gang",Great Intelligence
+232,7,The Bells of Saint John,Colm McCarthy,Steven Moffat,11th Doctor,Clara,Great Intelligence
+233,7,The Rings of Akhaten,Farren Blackburn,Neil Cross,11th Doctor,Clara,
+234,7,Cold War,Douglas Mackinnon,Mark Gatiss,11th Doctor,Clara,Ice Warriors
+235,7,Hide,Jamie Payne,Neil Cross,11th Doctor,Clara,
+236,7,Journey to the Centre of the TARDIS,Mat King,Stephen Thompson,11th Doctor,Clara,
+237,7,The Crimson Horror,Saul Metzstein,Mark Gatiss,11th Doctor,"Clara, Paternoster Gang",
+238,7,Nightmare in Silver,Stephen Woolfenden,Neil Gaiman,11th Doctor,Clara,Cybermen
+239,7,The Name of the Doctor,Saul Metzstein,Steven Moffat,11th Doctor,"Clara, River Song, Paternoster Gang",Great Intelligence
+240,Special,The Day of the Doctor,Nick Hurran,Steven Moffat,11th Doctor,"Clara, Kate, Osgood","Zygons, Daleks"
+241,Special,The Time of the Doctor,Jamie Payne,Steven Moffat,11th Doctor,Clara,Daleks
+242,8,Deep Breath,Ben Wheatley,Steven Moffat,12th Doctor,"Clara, Paternoster Gang",
+243,8,Into the Dalek,Ben Wheatley,"Phil Ford, Steven Moffat",12th Doctor,"Clara, Danny Pink",Daleks
+244,8,Robot of Sherwood,Paul Murphy,Mark Gatiss,12th Doctor,Clara,
+245,8,Listen,Douglas Mackinnon,Steven Moffat,12th Doctor,"Clara, Danny Pink",
+246,8,Time Heist,Douglas Mackinnon,"Stephen Thompson, Steven Moffat",12th Doctor,Clara,
+247,8,The Caretaker,Paul Murphy,"Gareth Roberts, Steven Moffat",12th Doctor,"Clara, Danny Pink",
+248,8,Kill the Moon,Paul Wilmshurst,Peter Harness,12th Doctor,Clara,
+249,8,Mummy on the Orient Express,Paul Wilmshurst,Jamie Mathieson,12th Doctor,Clara,
+250,8,Flatline,Douglas Mackinnon,Jamie Mathieson,12th Doctor,Clara,
+251,8,In the Forest of the Night,Sheree Folkson,Frank Cottrell-Boyce,12th Doctor,"Clara, Danny Pink",
+252a,8,Dark Water,Rachel Talalay,Steven Moffat,12th Doctor,"Clara, Danny Pink, Kate, Osgood","Missy, Cybermen"
+252b,8,Death in Heaven,Rachel Talalay,Steven Moffat,12th Doctor,"Clara, Danny Pink, Kate, Osgood","Missy, Cybermen"
+253,Special,Last Christmas,Paul Wilmshurst,Steven Moffat,12th Doctor,"Clara, Danny Pink",
+254a,9,The Magician's Apprentice,Hettie MacDonald,Steven Moffat,12th Doctor,Clara,"Missy, Daleks, Davros"
+254b,9,The Witch's Familiar,Hettie MacDonald,Steven Moffat,12th Doctor,Clara,"Missy, Daleks, Davros"
+255a,9,Under the Lake,Daniel O'Hara,Toby Whithouse,12th Doctor,Clara,
+255b,9,Before the Flood,Daniel O'Hara,Toby Whithouse,12th Doctor,Clara,
+256,9,The Girl Who Died,Ed Bazalgette,"Jamie Mathieson, Steven Moffat",12th Doctor,"Clara, Ashildr",
+257,9,The Woman Who Lived,Ed Bazalgette,Catherine Tregenna,12th Doctor,"Clara, Ashildr",
+258a,9,The Zygon Invasion,Daniel Nettheim,Peter Harness,12th Doctor,"Clara, Kate, Osgood",Zygons
+258b,9,The Zygon Inversion,Daniel Nettheim,"Peter Harness, Steven Moffat",12th Doctor,"Clara, Kate, Osgood",Zygons
+259,9,Sleep No More,Justin Molotnikov,Mark Gatiss,12th Doctor,Clara,
+260,9,Face the Raven,Justin Molotnikov,Sarah Dollard,12th Doctor,"Clara, Ashildr",
+261,9,Heaven Sent,Rachel Talalay,Steven Moffat,12th Doctor,Clara,
+262,9,Hell Bent,Rachel Talalay,Steven Moffat,12th Doctor,"Clara, Ashildr",
+263,Special,The Husbands of River Song,Douglas Mackinnon,Steven Moffat,12th Doctor,"River Song, Nardole",
+264,Special,The Return of Doctor Mysterio,Ed Bazalgette,Steven Moffat,12th Doctor,Nardole,
+265,10,The Pilot,Lawrence Gough,Steven Moffat,12th Doctor,"Bill, Nardole",
+266,10,Smile,Lawrence Gough,Frank Cottrell-Boyce,12th Doctor,"Bill, Nardole",
+267,10,Thin Ice,Bill Anderson,Sarah Dollard,12th Doctor,"Bill, Nardole",
+268,10,Knock Knock,Bill Anderson,Mike Bartlett,12th Doctor,"Bill, Nardole",
+269,10,Oxygen,Charles Palmer,Jamie Mathieson,12th Doctor,"Bill, Nardole",
+270,10,Extremis,Daniel Nettheim,Steven Moffat,12th Doctor,"Bill, Nardole","The Monks, Missy"
+271,10,The Pyramid at the End of the World,Daniel Nettheim,"Peter Harness, Steven Moffat",12th Doctor,"Bill, Nardole",The Monks
+272,10,The Lie of the Land,Wayne Yip,Toby Whithouse,12th Doctor,"Bill, Nardole","The Monks, Missy"
+273,10,Empress of Mars,Wayne Yip,Mark Gatiss,12th Doctor,"Bill, Nardole",Ice Warriors
+274,10,The Eaters of Light,Charles Palmer,Rona Munro,12th Doctor,"Bill, Nardole",
+275a,10,World Enough and Time,Rachel Talalay,Steven Moffat,12th Doctor,"Bill, Nardole","Missy, Master, Cybermen"
+275b,10,The Doctor Falls,Rachel Talalay,Steven Moffat,12th Doctor,"Bill, Nardole","Missy, Master, Cybermen"
+276,Special,Twice Upon a Time,Rachel Talalay,Steven Moffat,12th Doctor,Bill,
+277,11,The Woman Who Fell to Earth,Jamie Childs,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",
+278,11,The Ghost Monument,Mark Tonderai,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",
+279,11,Rosa,Mark Tonderai,"Malorie Blackman, Chris Chibnall",13th Doctor,"Graham, Ryan, Yaz",
+280,11,Arachnids in the UK,Sallie Aprahamian,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",
+281,11,The Tsuranga Conundrum,Jennifer Perrott,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",
+282,11,Demons of the Punjab,Jamie Childs,Vinay Patel,13th Doctor,"Graham, Ryan, Yaz",
+283,11,Kerblam!,Jennifer Perrott,Pete McTighe,13th Doctor,"Graham, Ryan, Yaz",
+284,11,The Witchfinders,Sallie Aprahamian,Joy Wilkinson,13th Doctor,"Graham, Ryan, Yaz",
+285,11,It Takes You Away,Jamie Childs,Ed Hime,13th Doctor,"Graham, Ryan, Yaz",
+286,11,The Battle of Ranskoor Av Kolos,Jamie Childs,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",
+287,Special,Resolution,Wayne Yip,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",Daleks
+288a,12,"Spyfall, Part 1",Jamie Magnus Stone,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",Master
+288b,12,"Spyfall, Part 2",Lee Haven Jones,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz",Master
+289,12,Orphan 55,Lee Haven Jones,Ed Hime,13th Doctor,"Graham, Ryan, Yaz",
+290,12,Nikola Tesla's Night of Terror,Nida Manzoor,Nina Metivier,13th Doctor,"Graham, Ryan, Yaz",
+291,12,Fugitive of the Judoon,Nida Manzoor,"Vinay Patel, Chris Chibnall",13th Doctor,"Graham, Ryan, Yaz, Captain Jack",Judoon
+292,12,Praxeus,Jamie Magnus Stone,"Pete McTighe, Chris Chibnall",13th Doctor,"Graham, Ryan, Yaz",
+293,12,Can You Hear Me?,Emma Sullivan,"Charlene James, Chris Chibnall",13th Doctor,"Graham, Ryan, Yaz",
+294,12,The Haunting of Villa Diodati,Emma Sullivan,Maxine Alderton,13th Doctor,"Graham, Ryan, Yaz",Cybermen
+295a,12,Ascension of the Cybermen,Jamie Magnus Stone,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz","Master, Cybermen"
+295b,12,The Timeless Children,Jamie Magnus Stone,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz","Master, Cybermen"
+296,Special,Revolution of the Daleks,Lee Haven Jones,Chris Chibnall,13th Doctor,"Graham, Ryan, Yaz, Captain Jack",Daleks
+297a,13,The Halloween Apocalypse,Jamie Magnus Stone,Chris Chibnall,13th Doctor,"Yaz, Dan",
+297b,13,War of the Sontarans,Jamie Magnus Stone,Chris Chibnall,13th Doctor,"Yaz, Dan",Sontarans
+297c,13,"Once, Upon Time",Azhur Saleem,Chris Chibnall,13th Doctor,"Yaz, Dan",
+297d,13,Village of the Angels,Jamie Magnus Stone,"Chris Chibnall, Maxine Alderton",13th Doctor,"Yaz, Dan",Weeping Angels
+297e,13,Survivors of the Flux,Azhur Saleem,Chris Chibnall,13th Doctor,"Yaz, Dan, Kate",
+297f,13,The Vanquishers,Azhur Saleem,Chris Chibnall,13th Doctor,"Yaz, Dan, Kate",Sontarans
+298,Special,Eve of the Daleks[14],Annetta Laufer,Chris Chibnall,13th Doctor,"Yaz, Dan",Daleks
+299,Special,TBA,Haolu Wang,TBA,13th Doctor,"Yaz, Dan",
+300,Special,TBA,Jamie Magnus Stone,TBA,13th Doctor,"Yaz, Dan",

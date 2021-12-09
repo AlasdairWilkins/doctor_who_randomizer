@@ -1,7 +1,17 @@
+import React, {useEffect} from 'react';
+
 import logo from './logo.svg';
 import './App.css';
 
+import {getEpisodes} from './getEpisodes';
+
 function App() {
+  useEffect(() => {
+    getEpisodes().then(data => {
+      console.log(data);
+    });
+  }, []);
+
   return (
     <div className="App">
       <header className="App-header">
