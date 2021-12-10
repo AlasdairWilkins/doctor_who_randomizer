@@ -9137,6 +9137,11 @@
   "resolved" "https://registry.npmjs.org/punycode/-/punycode-1.3.2.tgz"
   "version" "1.3.2"
 
+"pycollections@^0.9.0":
+  "integrity" "sha1-WoB/XWMJcRdV5TH++8CSxmJFAo0="
+  "resolved" "https://registry.npmjs.org/pycollections/-/pycollections-0.9.0.tgz"
+  "version" "0.9.0"
+
 "q@^1.1.2":
   "integrity" "sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc="
   "resolved" "https://registry.npmjs.org/q/-/q-1.5.1.tgz"

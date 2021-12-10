@@ -1,32 +1,40 @@
-import React, {useEffect} from 'react';
+import React, {useCallback, useEffect, useState} from 'react';
 
-import logo from './logo.svg';
 import './App.css';
 
 import {getEpisodes} from './getEpisodes';
+import {transformEpisodes} from './transformEpisodes';
 
 function App() {
+  const [episodes, setEpisodes] = useState(null);
+  const [selectedEpisode, setSelectedEpisode] = useState(null);
+
   useEffect(() => {
-    getEpisodes().then(data => {
-      console.log(data);
+    getEpisodes().then(episodes => {
+      setEpisodes(transformEpisodes(episodes));
     });
   }, []);
+
+  const onClickHandler = useCallback(() => {
+    if (!episodes) {
+      return null
+    }
+    const episodeNumber = Math.floor(Math.random() * episodes.length)
+    setSelectedEpisode(episodes[episodeNumber])
+  }, [episodes])
 
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to the Doctor Who Randomizer!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <button onClick={onClickHandler}>
+          Randomize!
+        </button>
+        {
+          selectedEpisode && (<p>The Randomizer has selected {selectedEpisode.title} -- enjoy!</p>)
+        }
       </header>
     </div>
   );
